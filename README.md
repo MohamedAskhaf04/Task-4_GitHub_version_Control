@@ -7,5 +7,20 @@ This project demonstrates Git best practices:
 - .gitignore usage
 - Tags for versioning
 
-## Version Tags
+Version Tags
 - v1.0.0 → Initial version
+
+  # Task Documentation
+
+Repo Setup
+- Created local repo and pushed to GitHub.
+
+Branching
+- Created `main`, `dev`, and `feature` branches.
+
+Feature Work
+- Added `feature.txt` in `feature` branch and merged via PR.
+
+Versioning
+- Tagged initial version as `v1.0.0`.
+
